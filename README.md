@@ -1,4 +1,4 @@
-# Common Passwords: A Security Risk Analysis
+# Common Passwords: A Security Risk Analysis 2024
 
 ## Introduction
 
